@@ -1,0 +1,9 @@
+{
+	"User": {
+		"Id": 1,
+		"Name": "홍길동",
+		"Role": "ADM",
+		"RoleName": "관리자",
+		"CreateDateTime": "2023-04-26 18:00:00"
+	}
+}

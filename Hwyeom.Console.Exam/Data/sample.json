@@ -1,0 +1,53 @@
+{
+	"A1":
+	{
+		"id": "644a175fa1abe0fc753e70c3",
+		"children": [
+			{
+				"name": "Tracy Newman",
+				"age": 3
+			},
+			{
+				"name": "Hildred Patrick",
+				"age": 9
+			},
+			{
+				"name": "August Case",
+				"age": 6
+			},
+			{
+				"name": "Parker Phillips",
+				"age": 0
+			},
+			{
+				"name": "Hill Meadows",
+				"age": 5
+			}
+		],
+		"currentJob": {
+			"title": "Developer",
+			"salary": "mask;"
+		},
+		"jobs": [
+			{
+				"title": "CEO",
+				"salary": "R$ 9.188,39"
+			},
+			{
+				"title": "teacher",
+				"salary": "R$ 3.969,39"
+			}
+		],
+		"maxRunDistance": 9.8,
+		"cpf": "686.476.348-02",
+		"cnpj": "54.275.742/0001-59",
+		"pretendSalary": "R$ 3.019,63",
+		"age": 70,
+		"gender": "female",
+		"firstName": "Vasquez",
+		"lastName": "Foreman",
+		"phone": "+55 (83) 93414-1851",
+		"address": "91 Norwood Avenue - Elbert, North Carolina, Latvia.",
+		"hairColor": "cyan"
+	}
+}
